@@ -1,0 +1,14 @@
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\bin\Debug\net8.0\ScrabbleScoringSystem.exe
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\bin\Debug\net8.0\ScrabbleScoringSystem.deps.json
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\bin\Debug\net8.0\ScrabbleScoringSystem.runtimeconfig.json
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\bin\Debug\net8.0\ScrabbleScoringSystem.dll
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\bin\Debug\net8.0\ScrabbleScoringSystem.pdb
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.AssemblyInfoInputs.cache
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.AssemblyInfo.cs
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.csproj.CoreCompileInputs.cache
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.dll
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\refint\ScrabbleScoringSystem.dll
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.pdb
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ScrabbleScoringSystem.genruntimeconfig.cache
+D:\CSharpProgram\ScrabbleSystem\ScrabbleScoringSystem\obj\Debug\net8.0\ref\ScrabbleScoringSystem.dll
